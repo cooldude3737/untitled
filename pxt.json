@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "Micro:Bit Motor Driver": "github:sbcshop/Micro-Bit-Motor-Driver#1ef2c15b4af3cdeea2dbe8a14b17d57c857c64f7"
     },
     "files": [
         "main.blocks",
